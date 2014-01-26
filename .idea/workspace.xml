@@ -26,7 +26,7 @@
       <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="18" selection-start="303" selection-end="303" vertical-scroll-proportion="0.5065177" vertical-offset="0" max-vertical-offset="537">
+            <state line="11" column="24" selection-start="241" selection-end="241" vertical-scroll-proportion="0.3482309" vertical-offset="0" max-vertical-offset="537">
               <folding />
             </state>
           </provider>
@@ -271,13 +271,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libs/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="23" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
@@ -304,16 +297,6 @@
         <state line="13" column="1" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/ldapjs/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/ldapjs/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
@@ -361,9 +344,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ldapjs/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.3516874" vertical-offset="1324" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ldapjs/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ldapjs/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="4" selection-start="4766" selection-end="4766" vertical-scroll-proportion="1.2652671" vertical-offset="663" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/.bin/ldapjs-modify.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="18" selection-start="303" selection-end="303" vertical-scroll-proportion="0.5065177" vertical-offset="0" max-vertical-offset="537">
+        <state line="11" column="24" selection-start="241" selection-end="241" vertical-scroll-proportion="0.3482309" vertical-offset="0" max-vertical-offset="537">
           <folding />
         </state>
       </provider>
