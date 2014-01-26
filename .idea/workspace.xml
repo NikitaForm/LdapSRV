@@ -32,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="12" selection-start="112" selection-end="112" vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="563">
+            <state line="16" column="12" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ldapsrv.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ldapsrv.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ldapsrv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="38" selection-start="1787" selection-end="1787" vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="1343">
+            <state line="73" column="3" selection-start="1896" selection-end="1896" vertical-scroll-proportion="0.8188277" vertical-offset="780" max-vertical-offset="1343">
               <folding />
             </state>
           </provider>
@@ -82,9 +82,9 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/config.json" />
         <option value="$PROJECT_DIR$/Procfile.txt" />
-        <option value="$PROJECT_DIR$/ldapsrv.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ldapsrv.js" />
       </list>
     </option>
   </component>
@@ -270,13 +270,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ldapsrv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="38" selection-start="1787" selection-end="1787" vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="1343">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="18" selection-start="302" selection-end="302" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="391">
@@ -286,7 +279,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="112" selection-end="112" vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="563">
+        <state line="16" column="12" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ldapsrv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="3" selection-start="1896" selection-end="1896" vertical-scroll-proportion="0.8188277" vertical-offset="780" max-vertical-offset="1343">
           <folding />
         </state>
       </provider>
