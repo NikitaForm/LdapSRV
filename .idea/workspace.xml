@@ -35,7 +35,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="563">
+            <state line="16" column="12" selection-start="112" selection-end="112" vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="563">
               <folding />
             </state>
           </provider>
@@ -286,7 +286,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="563">
+        <state line="16" column="12" selection-start="112" selection-end="112" vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="563">
           <folding />
         </state>
       </provider>
