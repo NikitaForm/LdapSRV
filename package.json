@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "nconf"    : "0.6.x",
-    "ldapjs"   : "*"
+    "ldapjs"   : "0.7.0",
+    "node-gyp" : "0.12.2"
 
   },
   "engines": {
