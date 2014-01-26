@@ -71,5 +71,5 @@ server.search(SUFFIX, function(req, res, next) {
 
 server.listen(process.env.PORT || 1389, 'sleepy-caverns-7803.herokuapp.com', function() {
     console.log('LDAP server up at: %s', server.url);
-    console.log(process.env.URL + '1321321312');
+    console.log(ENV['URL'] + '    1321321312');
 });
