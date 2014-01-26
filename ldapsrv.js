@@ -69,6 +69,6 @@ server.search(SUFFIX, function(req, res, next) {
     return next();
 });
 
-server.listen(1389, 'localhost', function() {
+server.listen(1389, 'sleepy-caverns-7803.herokuapp.com', function() {
     console.log('LDAP server up at: %s', server.url);
 });
