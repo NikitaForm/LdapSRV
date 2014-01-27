@@ -5,6 +5,7 @@ var db = config.get('users');
 var server = ldap.createServer();
 
 server.bind(SUFFIX, function(req, res, next) {
+    console.log('bind');
     var dn = req.dn.toString();
     if (!db[dn])
         return next(new ldap.NoSuchObjectError(dn));
@@ -20,7 +21,7 @@ server.bind(SUFFIX, function(req, res, next) {
 });
 
 server.search(SUFFIX, function(req, res, next) {
-
+    console.log('search');
     var dn = req.dn.toString();
     if (!db[dn]){
         return next(new ldap.NoSuchObjectError(dn));
@@ -69,6 +70,6 @@ server.search(SUFFIX, function(req, res, next) {
     return next();
 });
 
-server.listen(process.env.PORT || 1389, 'sleepy-caverns-7803dfgdfg', function() {
+server.listen(process.env.PORT || 1389, function() {
     console.log('LDAP server up at: %s', server.url);
 });
