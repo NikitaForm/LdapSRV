@@ -53,7 +53,7 @@
       <file leaf-file-name="ldapsrv.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ldapsrv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="0" selection-start="1975" selection-end="1975" vertical-scroll-proportion="5.338843" vertical-offset="0" max-vertical-offset="1394">
+            <state line="72" column="38" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.4214876" vertical-offset="1122" max-vertical-offset="1394">
               <folding />
             </state>
           </provider>
@@ -329,7 +329,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ldapsrv.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="0" selection-start="1975" selection-end="1975" vertical-scroll-proportion="5.338843" vertical-offset="0" max-vertical-offset="1394">
+        <state line="72" column="38" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.4214876" vertical-offset="1122" max-vertical-offset="1394">
           <folding />
         </state>
       </provider>
