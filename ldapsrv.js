@@ -70,7 +70,7 @@ server.search(SUFFIX, function(req, res, next) {
     return next();
 });
 
-server.listen(process.env.PORT || 1389, 'localhost', function() {
+server.listen(process.env.PORT || 1389, function() {
     console.log('LDAP server up at: %s', server.url);
     console.log(JSON.stringify(server.address()));
 });
