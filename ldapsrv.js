@@ -69,8 +69,9 @@ server.search(SUFFIX, function(req, res, next) {
     res.end();
     return next();
 });
-
-server.listen(process.env.PORT || 1389, function() {
+var port = process.env.PORT;
+server.listen(port || 1389, function() {
     console.log('LDAP server up at: %s', server.url);
     console.log(JSON.stringify(server.address()));
+    console.log('port ' + port);
 });
